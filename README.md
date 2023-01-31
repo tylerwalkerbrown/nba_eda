@@ -35,3 +35,18 @@ From this experience I gained a lot of knowledge about working through a clean n
  
  ## The Question
  # Who is the greatest player?
+ 
+ Michael Jordan during his career was able to accomplish a lot finishing with total of 32,292 points in his 15 year career playing 1072 games. Jordan was able to collect a total of 6 rings throughout that time. Lebron is currently still in the league and has more potential records to break. Up until 2022 Lebron has been able to play in 1521 games scoring a sum of 37,062 points with 4 rings in 18 years. This is a big difference in time and points. 
+# Player Present vs Not
+While Jordan was playing he missed a total of 14 games while fully healthy on roster. Out of those 14 games 10 of them were losses and 4 were wins, so without Jordan his teammates posted a 29% chance of success. When Jordan was in the game his record was 706-266 in the regular season with a 66% win rate. 
+Lebron from 2004-2022 season has missed a total of 155 games. Oout of the 155 games Lebrons teammates went 54-101 with a 35% win rate. While Lebron is in he is 894-472 with a 65% rate of success. 
+Lebron has missed an astonishing amount of games in his career (10.19%) compared to Jordan with 14 (1.30%). Throughout these missed games each team Lebron and Jordan played on suffered a vary simliar amount with similiar records of the fellow teammates. 
+# Year over Year Performances 
+Lebron and Jordan had both performed amoungst the best in each season but at what age were they the most dominate? Lebron was best at age 21 for scoring averaging a total of 29 points per game. Jordan scored his highest at age 25 averaging 36 points per game. These years Lebron also shot the ball the most in his career averaging almost 22 field goal attempts. Jordan at age 25 was also playing the most he has every in his life average almost 41 minutes per game.
+# Acheivements Over Same # of Games
+
+We can see over the years when comparing statistics that Michael Jordan lead Lebron over the same amount of games. Jordan was ahead of Lebron by over 5 k points, over 800 steals, 100+ blocks, and with only around 500 extra minutes played. Lebron lead over Jordan with 100 more rebounds, over 100+ assists and 800 3 pointers. It is very evident with these visuals that Lebron and Jordan were different players. Lebron is more of an outside shooter that distributes the ball very well considering he still scores a lot with high assists. Michael Jordan was a scrapier defensive player with higher steals which also caused Jordan to get a lot of steals in his career. Jordan did not spend a plot of time beyond the 3 point line as he kept his game within and had a lot of success doing so. The difference is that Michael Jordan is 3 years older in this in comparison to Lebron who started to play straight out of high school at age 18. The next question is who was better by age? 
+![image](https://user-images.githubusercontent.com/94020684/215641365-c2fdd62b-1d6b-4e99-bea3-420831f45d32.png)
+![image](https://user-images.githubusercontent.com/94020684/215641415-e05d2ad5-2037-4aaa-84a8-fda81b21d5d7.png)
+![image](https://user-images.githubusercontent.com/94020684/215641455-f2e7956b-1cbb-48c9-bdb3-7a455575dead.png)
+
