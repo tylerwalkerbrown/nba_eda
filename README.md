@@ -6,15 +6,26 @@
 - T-test
 - Distributions
 - Summary Statistics
-#Skills Used
--- a
-- Feature engineering
-- Data Analysis
-- Querying 
-- Web-scraping
-- Loops
-- Iterations
-- SQL Analysis
-- Visualizations
-- Functions
+# Skills Used
+- Python:
+  - Feature engineering
+  - Data Analysis
+  - Querying 
+  - Web-scraping
+  - Feature engineering
+  - Data Analysis
+  - Loops
+  - Iterations
+  - Functions
+  - Data Structures
+
+- SQL:
+  - Data Analysis
+  - Querying
+  - Creating Databases
+  - SQL connector
+  - Reporting
+  - Feature Engineering
+
+
  
