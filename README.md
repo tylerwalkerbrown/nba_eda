@@ -59,5 +59,9 @@ Lebron through his career has been able to maintain a 50.5% field goal percentag
 
 # Consistency
 
+Were going to look at how Lebron in his first 1072 games played compared to Jordan. Lebron was more consistent than Jordan in how many points he scored per night. Jordan did have higher average points scored and the highest amount of points scored in a game being 69 compared to Lebrons 61. 
+![image](https://user-images.githubusercontent.com/94020684/215645930-dcf08485-894c-4e28-81a0-17668ececac8.png)
 
+You can also see here the overlay of Lebrons consistency by not as high scoring as Jordan through the first 1072 regular season games of eachs career. Lebron has spikes in the mid 20s compared to jordans spikes you see in the 30s and 40s. Jordan has a fewer amount of these games scored but much greater than Lebron. 
+![image](https://user-images.githubusercontent.com/94020684/215646133-95a7b686-37d9-4cac-bad8-d714a51f1beb.png)
 
