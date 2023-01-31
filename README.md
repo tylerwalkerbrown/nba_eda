@@ -50,3 +50,12 @@ We can see over the years when comparing statistics that Michael Jordan lead Leb
 ![image](https://user-images.githubusercontent.com/94020684/215641415-e05d2ad5-2037-4aaa-84a8-fda81b21d5d7.png)
 ![image](https://user-images.githubusercontent.com/94020684/215641455-f2e7956b-1cbb-48c9-bdb3-7a455575dead.png)
 
+# Better Shooter ?
+
+Lebron through his career has been able to maintain a 50.5% field goal percentage comared to Jordans 49.6%. Jordan has been able to shoot better at the line with a 83% rate of success compared to Lebrons 73%. Lebron is much better from long range with a 31% success rate comapred to Jordans 27%. 
+![output_66_3](https://user-images.githubusercontent.com/94020684/215642680-1952c232-77c0-44b1-a316-bfd80948a24d.png)
+![output_66_5](https://user-images.githubusercontent.com/94020684/215642727-3b736b99-5cff-4ea3-930d-337772a117e3.png)
+![output_66_1](https://user-images.githubusercontent.com/94020684/215642746-4a1d76f6-c6b9-4118-ab25-1a258423404e.png)
+
+
+
