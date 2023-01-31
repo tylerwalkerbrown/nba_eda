@@ -28,4 +28,8 @@
   - Feature Engineering
 
 
+ ## Project ?
+ The goal of this project was to get a deep understanding of each players statistics over the course of their career. This project takes deep dives into players performance over the years and how they stack up agaisnt eachother. 
  
+ ## The Question
+ # Who is the greatest player?
