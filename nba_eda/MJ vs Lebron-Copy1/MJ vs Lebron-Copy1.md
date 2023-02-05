@@ -2125,151 +2125,21 @@ time_series(df_mj,"Jordan", df_lb, "Lebron","TRB")
 time_series(df_mj,"Jordan", df_lb, "Lebron","PF")
 time_series(df_mj,"Jordan", df_lb, "Lebron","MP")
 ```
+![image](https://user-images.githubusercontent.com/94020684/216847551-c1842566-342b-426c-8d7b-9e7f7ac06fec.png)
+![image](https://user-images.githubusercontent.com/94020684/216847556-1edb0f21-c0e1-42d3-860d-e3d0d0bddc9e.png)
+![image](https://user-images.githubusercontent.com/94020684/216847559-c58645be-22d4-49b6-8637-2aba28282eb0.png)
+![image](https://user-images.githubusercontent.com/94020684/216847564-0890234f-9232-4d4c-b222-7d4cf277caf5.png)
+![image](https://user-images.githubusercontent.com/94020684/216847568-93a21be0-b926-409e-97a4-f8c42acc6e90.png)
+![image](https://user-images.githubusercontent.com/94020684/216847572-cf873f73-7ace-478e-8b27-26b63a033755.png)
+![image](https://user-images.githubusercontent.com/94020684/216847573-eb6b63e7-2356-46f9-a6f3-fdb6e1199d0c.png)
+![image](https://user-images.githubusercontent.com/94020684/216847575-7eee98a6-2147-468a-99c4-cd7fb9f3916f.png)
 
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
     
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df['row_num'] = [i for i,row in enumerate(df.itertuples())]
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3530414438.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1['row_num'] = [i for i,row in enumerate(df.itertuples())]
-
 
 
     
-![png](output_63_1.png)
-    
 
 
-
-    
-![png](output_63_2.png)
-    
-
-
-
-    
-![png](output_63_3.png)
-    
-
-
-
-    
-![png](output_63_4.png)
-    
-
-
-
-    
-![png](output_63_5.png)
-    
-
-
-
-    
-![png](output_63_6.png)
-    
-
-
-
-    
-![png](output_63_7.png)
-    
-
-
-
-    
-![png](output_63_8.png)
-    
 
 
 This function is usewd to find the average percentages of given datasets for comparison. It does this by taking the given column then adding A to the end of the string to get the total attempts column of that stat. Then I plot the mean of the column divided my the attempts column for that stat. 
@@ -2308,64 +2178,10 @@ barplot(df_mj,"MJ",df_lb,"Lebron","3P")
 barplot(df_mj,"MJ",df_lb,"Lebron","FT")
 ```
 
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3267084092.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df[player] = player
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3267084092.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1[player1] = player1
+  ![image](https://user-images.githubusercontent.com/94020684/216847586-6b4a2d25-7a36-4850-9c39-bfc4a548bd87.png)
+![image](https://user-images.githubusercontent.com/94020684/216847590-4d148b9c-707f-4758-8908-b39d69d9687f.png)
 
-
-
-    
-![png](output_66_1.png)
-    
-
-
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3267084092.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df[player] = player
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3267084092.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1[player1] = player1
-
-
-
-    
-![png](output_66_3.png)
-    
-
-
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3267084092.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df[player] = player
-    /var/folders/d5/yv3yty4s3y33ty4r_pc546j80000gn/T/ipykernel_52401/3267084092.py:5: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df1[player1] = player1
-
-
-
-    
-![png](output_66_5.png)
-    
+    ![image](https://user-images.githubusercontent.com/94020684/216847597-a3718d23-7824-4d0c-bdc2-251230a5498a.png)
 
 
 This box plot can be used to spot the outliers in the data of two different players. YUou can input any column and player into the data depending on who you are analyzing.
@@ -2396,28 +2212,12 @@ boxplot(df_mj,"Jordan","STL", df_lb, "Lebron")
 boxplot(df_mj,"Jordan","3P", df_lb, "Lebron")
 ```
 
+![image](https://user-images.githubusercontent.com/94020684/216847615-bdc92731-c5bb-4c6f-9076-ae1b40c51755.png)
+![image](https://user-images.githubusercontent.com/94020684/216847618-bef1ae7f-324c-4cd8-8923-508902a1fc92.png)
+![image](https://user-images.githubusercontent.com/94020684/216847619-6c4a9740-fb80-4b25-969a-d69bb8f17bcc.png)
 
-    
-![png](output_69_0.png)
-    
+![image](https://user-images.githubusercontent.com/94020684/216847610-dac78a0c-4637-4270-b789-82ed60237413.png)
 
-
-
-    
-![png](output_69_1.png)
-    
-
-
-
-    
-![png](output_69_2.png)
-    
-
-
-
-    
-![png](output_69_3.png)
-    
 
 
 
@@ -2492,14 +2292,12 @@ histogram(df_mj, 'PTS',"Jordan", df_lb, "Lebron")
 
 
     
-![png](output_72_0.png)
-    
+![image](https://user-images.githubusercontent.com/94020684/216847634-f28f323f-5cfc-4419-b0d8-5495481c633a.png)    
 
 
 
     
-![png](output_72_1.png)
-    
+![image](https://user-images.githubusercontent.com/94020684/216847636-4c36e0ba-26ca-4e9f-9e17-42bacaea0737.png)    
 
 
     There is a significant difference in the PTS between Jordan and Lebron.
@@ -2550,23 +2348,7 @@ plt.figure(figsize=(15,7))
 plt.title("Lebron FGA vs PTS Kernel Density Estimate")
 sns.kdeplot(x=plot_lb.FGA, y=plot_lb.PTS,cmap = "Reds", cbar=True,shade = True, shade_lowest = False)
 ```
-
-    /Users/tylerbrown/opt/anaconda3/lib/python3.9/site-packages/seaborn/distributions.py:1718: UserWarning: `shade_lowest` is now deprecated in favor of `thresh`. Setting `thresh=0.05`, but please update your code.
-      warnings.warn(msg, UserWarning)
-
-
-
-
-
-    <AxesSubplot:title={'center':'Lebron FGA vs PTS Kernel Density Estimate'}, xlabel='FGA', ylabel='PTS'>
-
-
-
-
-    
-![png](output_75_2.png)
-    
-
+![image](https://user-images.githubusercontent.com/94020684/216847644-3f9a12d8-079d-43a2-a0c5-76df521e9f22.png)
 
 
 ```python
@@ -2577,30 +2359,8 @@ plt.title("Lebron James Catplot")
 plt.xticks(rotation=45)
 ```
 
-
-
-
-    (array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13]),
-     [Text(0, 0, '0.0'),
-      Text(1, 0, '1.0'),
-      Text(2, 0, '2.0'),
-      Text(3, 0, '3.0'),
-      Text(4, 0, '4.0'),
-      Text(5, 0, '5.0'),
-      Text(6, 0, '6.0'),
-      Text(7, 0, '7.0'),
-      Text(8, 0, '8.0'),
-      Text(9, 0, '9.0'),
-      Text(10, 0, '10.0'),
+![image](https://user-images.githubusercontent.com/94020684/216847653-2e5e7f5e-1e27-4e74-b2bf-24e4d895bd5a.png)
       Text(11, 0, '11.0'),
-      Text(12, 0, '12.0'),
-      Text(13, 0, '13.0')])
-
-
-
-
-    
-![png](output_76_1.png)
     
 
 
@@ -2613,26 +2373,6 @@ plt.title("Michael Jordan Catplot")
 plt.xticks(rotation=45)
 
 ```
-
-
-
-
-    (array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9]),
-     [Text(0, 0, '0.0'),
-      Text(1, 0, '1.0'),
+![image](https://user-images.githubusercontent.com/94020684/216847659-ae66ef02-ab30-4c7e-8b95-ca7a0d647171.png)
       Text(2, 0, '2.0'),
-      Text(3, 0, '3.0'),
-      Text(4, 0, '4.0'),
-      Text(5, 0, '5.0'),
-      Text(6, 0, '6.0'),
-      Text(7, 0, '7.0'),
-      Text(8, 0, '8.0'),
-      Text(9, 0, '12.0')])
-
-
-
-
-    
-![png](output_77_1.png)
-    
 
