@@ -802,7 +802,7 @@ from sqlalchemy import create_engine
 # create sqlalchemy engine
 engine = create_engine("mysql+pymysql://{user}:{password}@localhost/{database}"
                        .format(user = 'root',
-                              password = 'Coors1998',
+                              password = '',
                               database = 'nba_stats'))
 ```
 
